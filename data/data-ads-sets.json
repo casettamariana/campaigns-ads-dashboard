@@ -1,0 +1,193 @@
+[
+    {
+        "id": "120202267242500165",
+        "account_id": "104028533759661",
+        "campaign_id": "120202267242370165",
+        "name": "Novo conjunto de an\u00fancios de Vendas",
+        "status": "ACTIVE",
+        "configured_status": "ACTIVE",
+        "effective_status": "ACTIVE",
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "OFFSITE_CONVERSIONS",
+        "created_time": "2023-12-14T00:28:55-0300",
+        "updated_time": "2023-12-14T00:28:55-0300",
+        "destination_type": "UNDEFINED",
+        "optimization_sub_event": "NONE",
+        "promoted_object": {
+            "pixel_id": "348122364310795",
+            "custom_event_type": "PURCHASE"
+        },
+        "targeting": {
+            "age_max": 65,
+            "age_min": 18,
+            "custom_audiences": [
+                {
+                    "id": "120202371195910165",
+                    "name": "Semelhante (BR, 1%) - FUZZAKA F\u00c1CILZAP APOLLO - Website using InitiateCheckout"
+                }
+            ],
+            "geo_locations": {
+                "countries": [
+                    "BR"
+                ],
+                "location_types": [
+                    "home",
+                    "recent"
+                ]
+            },
+            "brand_safety_content_filter_levels": [
+                "FACEBOOK_STANDARD",
+                "AN_STANDARD"
+            ]
+        }
+    },
+    {
+        "id": "120201944172450165",
+        "account_id": "104028533759661",
+        "campaign_id": "120201944172460165",
+        "name": "Campanha de Compras Advantage+ 9/12/2023 Conjunto de an\u00fancios",
+        "status": "ACTIVE",
+        "configured_status": "ACTIVE",
+        "effective_status": "ACTIVE",
+        "daily_budget": "2000",
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "OFFSITE_CONVERSIONS",
+        "created_time": "2023-12-11T17:29:53-0300",
+        "updated_time": "2023-12-11T17:29:53-0300",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "destination_type": "UNDEFINED",
+        "optimization_sub_event": "NONE",
+        "pacing_type": [
+            "standard"
+        ],
+        "promoted_object": {
+            "pixel_id": "348122364310795",
+            "custom_event_type": "PURCHASE"
+        },
+        "targeting": {
+            "age_max": 65,
+            "age_min": 18,
+            "geo_locations": {
+                "countries": [
+                    "BR"
+                ],
+                "location_types": [
+                    "home",
+                    "recent"
+                ]
+            },
+            "brand_safety_content_filter_levels": [
+                "FACEBOOK_STANDARD",
+                "AN_STANDARD"
+            ]
+        }
+    },
+    {
+        "id": "120201120453740165",
+        "account_id": "104028533759661",
+        "campaign_id": "120201120453660165",
+        "name": "T1.1_PERSONALIZADO_RMK",
+        "status": "ACTIVE",
+        "configured_status": "ACTIVE",
+        "effective_status": "ACTIVE",
+        "daily_budget": "3554",
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "OFFSITE_CONVERSIONS",
+        "created_time": "2023-11-27T17:19:40-0300",
+        "updated_time": "2023-12-12T22:32:18-0300",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "destination_type": "UNDEFINED",
+        "optimization_sub_event": "NONE",
+        "pacing_type": [
+            "standard"
+        ],
+        "promoted_object": {
+            "pixel_id": "348122364310795",
+            "custom_event_type": "PURCHASE"
+        },
+        "targeting": {
+            "age_max": 65,
+            "age_min": 18,
+            "custom_audiences": [
+                {
+                    "id": "120201120571550165",
+                    "name": "AddToCart - 90D (- Purchase 30D)"
+                },
+                {
+                    "id": "120201120577990165",
+                    "name": "InitiateCheckout - 120D (- Purchase 30D)"
+                },
+                {
+                    "id": "120201120586410165",
+                    "name": "Purchase - 180D (- Purchase 30D)"
+                },
+                {
+                    "id": "120201120593910165",
+                    "name": "ViewContent - 60D (- Purchase 30D)"
+                },
+                {
+                    "id": "120201120627050165",
+                    "name": "Engajou IG 90D"
+                }
+            ],
+            "geo_locations": {
+                "countries": [
+                    "BR"
+                ],
+                "location_types": [
+                    "home",
+                    "recent"
+                ]
+            },
+            "brand_safety_content_filter_levels": [
+                "FACEBOOK_STANDARD",
+                "AN_STANDARD"
+            ],
+            "targeting_relaxation_types": {
+                "lookalike": 0,
+                "custom_audience": 1
+            }
+        }
+    },
+    {
+        "id": "120201119465650165",
+        "account_id": "104028533759661",
+        "campaign_id": "120201119465640165",
+        "name": "\ud83e\udd16T2.1_COMPRAS_ABO_Advantage+",
+        "status": "ACTIVE",
+        "configured_status": "ACTIVE",
+        "effective_status": "ACTIVE",
+        "daily_budget": "5833",
+        "billing_event": "IMPRESSIONS",
+        "optimization_goal": "OFFSITE_CONVERSIONS",
+        "created_time": "2023-11-27T16:49:24-0300",
+        "updated_time": "2023-12-13T23:54:34-0300",
+        "bid_strategy": "LOWEST_COST_WITHOUT_CAP",
+        "destination_type": "UNDEFINED",
+        "optimization_sub_event": "NONE",
+        "pacing_type": [
+            "standard"
+        ],
+        "promoted_object": {
+            "pixel_id": "348122364310795",
+            "custom_event_type": "PURCHASE"
+        },
+        "targeting": {
+            "age_max": 65,
+            "age_min": 18,
+            "geo_locations": {
+                "countries": [
+                    "BR"
+                ],
+                "location_types": [
+                    "home",
+                    "recent"
+                ]
+            },
+            "brand_safety_content_filter_levels": [
+                "FACEBOOK_STANDARD",
+                "AN_STANDARD"
+            ]
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "id": "120202267242720165",
+        "account_id": "104028533759661",
+        "adset_id": "120202267242500165",
+        "effective_status": "ACTIVE"
+    },
+    {
+        "id": "120202372197090165",
+        "account_id": "104028533759661",
+        "adset_id": "120202267242500165",
+        "effective_status": "ACTIVE"
+    },
+    {
+        "id": "120202372162690165",
+        "account_id": "104028533759661",
+        "adset_id": "120202267242500165",
+        "effective_status": "ACTIVE"
+    },
+    {
+        "id": "120202372228610165",
+        "account_id": "104028533759661",
+        "adset_id": "120202267242500165",
+        "effective_status": "ACTIVE"
+    },
+    {
+        "id": "120201944172470165",
+        "account_id": "104028533759661",
+        "adset_id": "120201944172450165",
+        "effective_status": "ACTIVE"
+    },
+    {
+        "id": "120201120672630165",
+        "account_id": "104028533759661",
+        "adset_id": "120201120453740165",
+        "effective_status": "ACTIVE"
+    },
+    {
+        "id": "120201120453800165",
+        "account_id": "104028533759661",
+        "adset_id": "120201120453740165",
+        "effective_status": "ACTIVE"
+    },
+    {
+        "id": "120201119465630165",
+        "account_id": "104028533759661",
+        "adset_id": "120201119465650165",
+        "effective_status": "ACTIVE"
+    },
+    {
+        "id": "120201120258780165",
+        "account_id": "104028533759661",
+        "adset_id": "120201119465650165",
+        "effective_status": "ACTIVE"
+    }
+]
