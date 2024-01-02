@@ -35,6 +35,15 @@ class AdapterApiAds:
             data = requests.get(url + self.token)
             return json.loads(data._content.decode("utf-8"))
 
+    def get_business(self):
+        if self.is_localhost:
+            with open("data/data-business.json") as file:
+                return json.load(file)
+        else:
+            url = self.url + "/clients"
+            data = requests.get(url + self.token)
+            return json.loads(data._content.decode("utf-8"))
+
 if __name__ == "__main__":
     api_token = open("environments/api_token").read()
     is_localhost = open("environments/is_localhost").read()
@@ -44,3 +53,4 @@ if __name__ == "__main__":
     api_ads.get_campaigns_status()
     api_ads.get_ads_status()
     api_ads.get_ad_set_status()
+    api_ads.get_business()

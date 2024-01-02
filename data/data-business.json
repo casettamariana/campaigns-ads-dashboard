@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Apollo"
+        },
+        {
+            "id": "2",
+            "name": "Salvatore"
+        },
+        {
+            "id": "3",
+            "name": "Muka T-Shirt"
+        },
+        {
+            "id": "4",
+            "name": "Nome empresa 1"
+        },
+        {
+            "id": "5",
+            "name": "Nome empresa 2"
+        },
+        {
+            "id": "6",
+            "name": "Nome empresa 3"
+        },
+        {
+            "id": "7",
+            "name": "Nome empresa 4"
+        },
+        {
+            "id": "8",
+            "name": "Nome empresa 5"
+        },
+        {
+            "id": "9",
+            "name": "Nome empresa 6"
+        },
+        {
+            "id": "10",
+            "name": "Nome empresa 7"
+        }
+    ],
+    "paging": {
+        "cursors": {
+          "after": "MTAxNTExOTQ1MjAwNzI5NDE=",
+          "before": "NDMyNzQyODI3OTQw"
+        },
+        "previous": "https://graph.facebook.com/{your-user-id}/albums?limit=25&before=NDMyNzQyODI3OTQw",
+        "next": "https://graph.facebook.com/{your-user-id}/albums?limit=25&after=MTAxNTExOTQ1MjAwNzI5NDE="
+    },
+    "summary": {
+        "total_count": 10
+    }
+}
